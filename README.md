@@ -37,7 +37,7 @@ Repositório com exercícios, projetos, anotações e materiais produzidos duran
 - Teste de Software
 
 ## Estrutura de Pastas
-
+```plaintext
 /
 ├── 00-ambiente/
 ├── 01-oo-uml/
