@@ -54,3 +54,19 @@ Repositório com exercícios, projetos, anotações e materiais produzidos duran
 ├── 12-testes/
 ├── docs/
 └── README.md
+
+## Pré-requisitos
+- **JDK**: 17 ou 21 (LTS). Recomendo 21.
+- **Build**: Maven.
+- **IDE**: IntelliJ IDEA.
+
+
+## Como executar
+### Maven
+```bash
+mvn -v
+mvn clean compile
+mvn test
+mvn clean package
+java -jar target/app.jar
+
