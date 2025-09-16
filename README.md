@@ -37,3 +37,20 @@ Repositório com exercícios, projetos, anotações e materiais produzidos duran
 - Teste de Software
 
 ## Estrutura de Pastas
+
+/
+├── 00-ambiente/
+├── 01-oo-uml/
+├── 02-java-i/
+├── 03-integracao-continua/
+├── 04-java-ii/
+├── 05-bancos-de-dados/
+├── 06-java-web/
+├── 07-ejb/
+├── 08-redes/
+├── 09-web-services/
+├── 10-mobile/
+├── 11-frameworks-web/
+├── 12-testes/
+├── docs/
+└── README.md
